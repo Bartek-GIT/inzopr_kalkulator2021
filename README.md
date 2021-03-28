@@ -1,4 +1,4 @@
-#Kalkulator
+#Kalkulator - instrukcja obslugi
 
 To jest projekt kalk
 
