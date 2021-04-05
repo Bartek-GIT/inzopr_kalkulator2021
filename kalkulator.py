@@ -13,4 +13,4 @@ a = int(input())
 b = int(input())
 print(dodaj(a,b))
 
-print('koniec programu')
+print('koniec programu. papa')
